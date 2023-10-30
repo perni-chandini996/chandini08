@@ -13,7 +13,7 @@ import net.javaguides.sms.service.StudentService;
 @Controller
 public class chandiniController1 {
 	
-	private StudentService studentService;
+	private StudentService studentService1;
 
 	public StudentController(StudentService studentService) {
 		super();
