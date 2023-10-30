@@ -17,7 +17,7 @@ public class chandiniController1 {
 
 	public StudentController(StudentService studentService) {
 		super();
-		this.studentService = studentService;
+		this.studentService = studentService1;
 	}
 	
 	// handler method to handle list students and return mode and view
